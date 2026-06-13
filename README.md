@@ -8,9 +8,3 @@
   <a href="https://"><strong>➥ Live Demo</strong></a>
 
 </div>
-
-<br />
-
-### Demo Screeshots
-
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
